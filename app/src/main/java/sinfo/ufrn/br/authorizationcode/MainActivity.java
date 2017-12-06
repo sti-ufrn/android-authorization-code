@@ -26,8 +26,8 @@ public class MainActivity extends AppCompatActivity {
     private static final String STATE = "E3ZYKC1T6H2yP4z";
 
     private static final String REDIRECT_URI = "https://api.ufrn.br";
-    private static final String AUTHORIZATION_URL = "https://autenticacao.ufrn.br/authz-server/oauth/authorize";
-    private static final String ACCESS_TOKEN_URL = "https://autenticacao.ufrn.br/authz-server/oauth/token";
+    private static final String AUTHORIZATION_URL = "https://autenticacao-sustentacao.info.ufrn.br/authz-server/oauth/authorize";
+    private static final String ACCESS_TOKEN_URL = "https://autenticacao-sustentacao.info.ufrn.br/authz-server/oauth/token";
     private static final String RESPONSE_TYPE_PARAM = "response_type";
     private static final String GRANT_TYPE = "authorization_code";
     private static final String RESPONSE_TYPE_VALUE = "code";
