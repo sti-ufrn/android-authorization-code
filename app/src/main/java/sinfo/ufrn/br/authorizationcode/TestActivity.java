@@ -13,7 +13,7 @@ public class TestActivity extends AppCompatActivity {
 
     private ProgressDialog pd;
     private TextView txtJson;
-    private final String urlBase = "https://apitestes.info.ufrn.br/";
+    private final String urlBase = "https://api.info.ufrn.br/";
     private final String apiKey = "API_KEY";
 
     @Override
